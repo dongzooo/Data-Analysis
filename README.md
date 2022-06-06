@@ -4,6 +4,7 @@
 - 연관 규칙 분석(Association Rule Analysis)
 - 선형회귀분석(Linear_Regression)
 - 군집분석(Clustering Basics)
+- SVM(support_vector_machine)
 
 
 ### Requirements
