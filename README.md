@@ -5,6 +5,7 @@
 - 선형회귀분석(Linear_Regression)
 - 군집분석(Clustering Basics)
 - SVM(support_vector_machine)
+- 가중치_모델_TF_IDF(Term_Frequency_Inverse_Document_Frequency).
 
 
 ### Requirements
