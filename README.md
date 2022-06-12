@@ -6,7 +6,7 @@
 - 군집분석(Clustering Basics)
 - SVM(support_vector_machine)
 - 가중치_모델_TF_IDF(Term_Frequency_Inverse_Document_Frequency).
-
+- 인공신경망_ANN(Artificial_Neural_Network)
 
 ### Requirements
 - Google Colab / Jupyter
