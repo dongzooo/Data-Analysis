@@ -11,3 +11,5 @@
 ### Requirements
 - Google Colab / Jupyter
 - Python 3.x
+
+* src에는 코드, data에는 csv데이터
